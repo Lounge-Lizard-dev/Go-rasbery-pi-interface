@@ -1,4 +1,4 @@
-module github.com/Malachiain/rest-controll-interface
+module github.com/Lounge-Lizard-dev/Go-rasbery-pi-interface
 
 go 1.14
 
